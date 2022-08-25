@@ -1,0 +1,51 @@
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  background-color: turquoise;
+  border: solid black 5px;
+}
+.navbar, ul, li{
+display: flex;
+/* justify-content: space-between; */
+margin: 10px;
+
+}
+.navbar,h1{
+  text-align: center;
+  border-bottom: 3px;
+  /* background-color: aliceblue; */
+}
+.h2{
+  text-align: center;
+  border-bottom: 5px solid;
+}reset{
+  margin: 1px;
+  display: hovrer spinner;
+}
+p{
+  text-align: center;
+  border-bottom: 2px;
+  margin: 1px;
+}
+.container{
+  padding: 50px;
+}
+
+
+form{
+  text-align: center;
+  border-bottom: 5px;
+  margin: 15px;
+  padding: 50px;
+  width: 100%;
+}
+.form-group{
+  margin: 2px;
+  padding: 20px;
+  font-size: 40px;
+}
+.form-control{
+  width: 40%;
+  height: 5vh;
+}
